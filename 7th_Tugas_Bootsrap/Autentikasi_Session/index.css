@@ -1,0 +1,82 @@
+body{
+background-color:black;
+color:dodgerblue;
+}
+
+.inner{
+margin:200px auto;
+padding:5px 20px 20px 20px;
+width:280px;
+border:10px double dodgerblue;
+border-radius:10px;
+font-family:monotype corsiva;
+}
+
+.inner:hover{
+background-color:white;
+color:black;
+}
+
+input{
+border-radius:10px;
+}
+
+h3{
+font-size:20px;
+}
+
+#txt{
+background-color:skyblue;
+font-family:courier new;
+padding:5px 8px;
+}
+
+#button{
+font-family:courier new;
+font-weight:bold;
+padding:5px 10px 5px 10px;
+margin-top:10px;
+background-color:black;
+color:dodgerblue;
+border:3px solid gray;
+}
+
+#button:hover{
+background-color:skyblue;
+color:black;
+}
+
+
+
+/*----------------------------------------------------*/
+
+h2{
+text-align:center;
+clear:right;
+}
+
+.div3{
+background-color:gray;
+border-radius:5px;
+border:3px solid white;
+margin-top:5px;
+margin-right:10px;
+padding: 3px 3px 3px 3px;
+float:right;
+}
+
+.div3:hover{
+background-color:red;
+color:black;
+}
+
+.div4{
+color:black;
+background-color:skyblue;
+width:200px;
+height:400px;
+border:3px solid darkblue;
+border-radius:5px;
+margin-left:10px;
+padding: 10px 5px 10px 20px;
+}
